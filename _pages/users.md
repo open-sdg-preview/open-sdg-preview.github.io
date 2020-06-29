@@ -4,34 +4,34 @@ layout: single
 permalink: /users/
 feature_row:
   - image_path: /assets/images/flags/armenia.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/armenia.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "Armenia"
   - image_path: /assets/images/flags/cityofla.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/cityoflosangeles.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "City of LA"
   - image_path: /assets/images/flags/germany.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/germany.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "Germany"
   - image_path: /assets/images/flags/kyrgyzstan.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/kyrgyzstan.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "Kyrgyzstan"
   - image_path: /assets/images/flags/rwanda.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/rwanda.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "Rwanda"
   - image_path: /assets/images/flags/uk.png
-    excerpt: "<br/>"
+    excerpt: ""
     url: /case-studies/unitedkingdom.md
-    btn_class: "btn--primary"
+    btn_class: "btn--default"
     btn_label: "United Kingdom"
 ---
 
