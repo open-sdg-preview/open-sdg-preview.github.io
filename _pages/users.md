@@ -7,7 +7,7 @@ feature_row:
     excerpt: ""
     url: "_case-studies/armenia.md"
     btn_class: "btn--primary"
-    btn_label: "Armenia
+    btn_label: "Armenia"
     
 ---
 
