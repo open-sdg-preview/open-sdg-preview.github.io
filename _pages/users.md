@@ -1,6 +1,6 @@
 ---
 title: Open SDG Users
-layout: splash
+layout: single
 permalink: /users/
 feature_row:
   - image_path: /assets/images/flags/armenia.png
