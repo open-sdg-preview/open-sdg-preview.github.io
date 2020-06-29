@@ -1,7 +1,10 @@
 ---
-title: Open SDG Users
+title: Open SDG users
 layout: single
 permalink: /users/
+toc: true
+toc_label: "Open SDG users"
+toc_icon: "users"
 feature_row:
   - image_path: /assets/images/flags/armenia.png
     excerpt: ""
