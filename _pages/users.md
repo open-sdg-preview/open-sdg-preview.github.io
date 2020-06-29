@@ -50,7 +50,7 @@ Below is a list of some of the countries and localities that are currently using
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Poland* |<http://sdg.gov.pl/>|
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
-|United Kingdom|<https://sustainabledevelopment-uk.github.io/>|
+|United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
 
 
