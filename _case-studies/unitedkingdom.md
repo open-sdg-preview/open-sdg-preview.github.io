@@ -1,7 +1,7 @@
 ---
 title: United Kingdom
 header:
-  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/uk.png
+  teaser: /assets/images/flags/uk.png
 excerpt: ""
 ---
 
