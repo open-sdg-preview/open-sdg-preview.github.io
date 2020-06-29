@@ -4,32 +4,32 @@ layout: single
 permalink: /users/
 feature_row:
   - image_path: /assets/images/flags/armenia.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/armenia.md
     btn_class: "btn--primary"
     btn_label: "Armenia"
   - image_path: /assets/images/flags/cityofla.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/cityoflosangeles.md
     btn_class: "btn--primary"
     btn_label: "City of LA"
   - image_path: /assets/images/flags/germany.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/germany.md
     btn_class: "btn--primary"
     btn_label: "Germany"
   - image_path: /assets/images/flags/kyrgyzstan.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/kyrgyzstan.md
     btn_class: "btn--primary"
     btn_label: "Kyrgyzstan"
   - image_path: /assets/images/flags/rwanda.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/rwanda.md
     btn_class: "btn--primary"
     btn_label: "Rwanda"
   - image_path: /assets/images/flags/uk.png
-    excerpt: ""
+    excerpt: "\n"
     url: /case-studies/unitedkingdom.md
     btn_class: "btn--primary"
     btn_label: "United Kingdom"
