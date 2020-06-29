@@ -1,4 +1,6 @@
-<h1>Kyrgyzstan - Case Study</h1>
+---
+title: Kyrgyzstan
+---
 
 ## Link to platform
 
