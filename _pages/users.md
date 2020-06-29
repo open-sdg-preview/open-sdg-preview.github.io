@@ -5,7 +5,7 @@ permalink: /users/
 feature_row:
   - image_path: /assets/images/flags/armenia.png
     excerpt: ""
-    url: "_case-studies/armenia.md"
+    url: /case-studies/armenia.md
     btn_class: "btn--primary"
     btn_label: "Armenia"
     
