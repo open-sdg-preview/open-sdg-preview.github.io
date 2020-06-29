@@ -1,7 +1,7 @@
 ---
 title: Kyrgyzstan
 header:
-  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/kyrgyzstan.png
+  teaser: /assets/images/flags/kyrgyzstan.png
 excerpt: ""
 ---
 
