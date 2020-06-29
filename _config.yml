@@ -271,6 +271,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  case-studies:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -289,6 +292,14 @@ defaults:
   - scope:
       path: ""
       type: events
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _case-studies
+  - scope:
+      path: ""
+      type: case-studies
     values:
       layout: single
       author_profile: false
