@@ -1,7 +1,7 @@
 ---
 title: "Armenia"
 header:
-  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/armenia.png
+  teaser: /assets/images/flags/armenia.png
 excerpt: ""
 ---
 
