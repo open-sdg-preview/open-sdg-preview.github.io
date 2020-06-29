@@ -1,5 +1,8 @@
 ---
 title: Germany
+header:
+  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/germany.png
+excerpt: ""
 ---
 
 ## Link to platform
