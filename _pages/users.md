@@ -8,7 +8,31 @@ feature_row:
     url: /case-studies/armenia.md
     btn_class: "btn--primary"
     btn_label: "Armenia"
-    
+  - image_path: /assets/images/flags/cityofla.png
+    excerpt: ""
+    url: /case-studies/cityoflosangeles.md
+    btn_class: "btn--primary"
+    btn_label: "City of Los Angeles"
+  - image_path: /assets/images/flags/germany.png
+    excerpt: ""
+    url: /case-studies/germany.md
+    btn_class: "btn--primary"
+    btn_label: "Germany"
+  - image_path: /assets/images/flags/kyrgyzstan.png
+    excerpt: ""
+    url: /case-studies/kyrgyzstan.md
+    btn_class: "btn--primary"
+    btn_label: "Kyrgyzstan"
+  - image_path: /assets/images/flags/rwanda.png
+    excerpt: ""
+    url: /case-studies/rwanda.md
+    btn_class: "btn--primary"
+    btn_label: "Rwanda"
+  - image_path: /assets/images/flags/uk.png
+    excerpt: ""
+    url: /case-studies/unitedkingdom.md
+    btn_class: "btn--primary"
+    btn_label: "United Kingdom"
 ---
 
 ## Who is using this platform?
@@ -38,5 +62,7 @@ Below is a list of some of the countries and localities that are currently using
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 
 \*Using older version of platform that Open SDG is based on.
+
+## Case studies
 
 {% include feature_row %}
