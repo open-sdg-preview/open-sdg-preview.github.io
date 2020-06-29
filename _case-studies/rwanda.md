@@ -1,7 +1,7 @@
 ---
 title: Rwanda
 header:
-  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/rwanda.png
+  teaser: /assets/images/flags/rwanda.png
 excerpt: ""
 ---
 
