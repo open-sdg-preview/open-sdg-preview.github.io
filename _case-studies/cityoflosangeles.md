@@ -1,7 +1,7 @@
 ---
 title: City of Los Angeles
 header:
-  teaser: https://github.com/open-sdg-preview/open-sdg-preview.github.io/tree/master/assets/images/flags/cityofla.png
+  teaser: /assets/images/flags/cityofla.png
 excerpt: ""
 ---
 
