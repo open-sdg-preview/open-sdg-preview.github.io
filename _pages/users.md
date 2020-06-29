@@ -12,7 +12,7 @@ feature_row:
     excerpt: ""
     url: /case-studies/cityoflosangeles.md
     btn_class: "btn--primary"
-    btn_label: "City of Los Angeles"
+    btn_label: "City of LA"
   - image_path: /assets/images/flags/germany.png
     excerpt: ""
     url: /case-studies/germany.md
