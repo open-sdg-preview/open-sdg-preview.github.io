@@ -8,32 +8,32 @@ toc_icon: "users"
 feature_row:
   - image_path: /assets/images/flags/armenia.png
     excerpt: ""
-    url: /case-studies/armenia.md
+    url: /case-studies/armenia
     btn_class: "btn--default"
     btn_label: "Armenia"
   - image_path: /assets/images/flags/cityofla.png
     excerpt: ""
-    url: /case-studies/cityoflosangeles.md
+    url: /case-studies/cityoflosangeles
     btn_class: "btn--default"
     btn_label: "City of LA"
   - image_path: /assets/images/flags/germany.png
     excerpt: ""
-    url: /case-studies/germany.md
+    url: /case-studies/germany
     btn_class: "btn--default"
     btn_label: "Germany"
   - image_path: /assets/images/flags/kyrgyzstan.png
     excerpt: ""
-    url: /case-studies/kyrgyzstan.md
+    url: /case-studies/kyrgyzstan
     btn_class: "btn--default"
     btn_label: "Kyrgyzstan"
   - image_path: /assets/images/flags/rwanda.png
     excerpt: ""
-    url: /case-studies/rwanda.md
+    url: /case-studies/rwanda
     btn_class: "btn--default"
     btn_label: "Rwanda"
   - image_path: /assets/images/flags/uk.png
     excerpt: ""
-    url: /case-studies/unitedkingdom.md
+    url: /case-studies/unitedkingdom
     btn_class: "btn--default"
     btn_label: "United Kingdom"
 ---
