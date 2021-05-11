@@ -4,6 +4,8 @@ main:
     url: /about
   - title: "Documentation"
     url: https://open-sdg.readthedocs.io/
+  - title: "Video tutorials"
+    url: /video-tutorials
   - title: "News"
     url: /news
   - title: "Events"
