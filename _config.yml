@@ -271,7 +271,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
-  users:
+  blog:
     output: true
     permalink: /:collection/:path/
 
