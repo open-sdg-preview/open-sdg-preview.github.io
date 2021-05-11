@@ -296,11 +296,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _case-studies
+  # _blog
   - scope:
       path: ""
-      type: users
+      type: blog
     values:
       layout: single
       author_profile: false
       share: true
+      read_time: true
